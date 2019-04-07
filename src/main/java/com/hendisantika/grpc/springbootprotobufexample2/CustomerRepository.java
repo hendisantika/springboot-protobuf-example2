@@ -1,6 +1,4 @@
-package com.hendisantika.grpc.springbootprotobufexample2.repository;
-
-import com.hendisantika.grpc.springbootprotobufexample2.proto.CustomerProtos;
+package com.hendisantika.grpc.springbootprotobufexample2;
 
 /**
  * Created by IntelliJ IDEA.

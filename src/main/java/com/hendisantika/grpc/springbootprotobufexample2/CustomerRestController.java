@@ -1,7 +1,5 @@
-package com.hendisantika.grpc.springbootprotobufexample2.controller;
+package com.hendisantika.grpc.springbootprotobufexample2;
 
-import com.hendisantika.grpc.springbootprotobufexample2.proto.CustomerProtos;
-import com.hendisantika.grpc.springbootprotobufexample2.repository.CustomerRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

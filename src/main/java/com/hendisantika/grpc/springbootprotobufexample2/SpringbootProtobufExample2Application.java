@@ -1,7 +1,5 @@
 package com.hendisantika.grpc.springbootprotobufexample2;
 
-import com.hendisantika.grpc.springbootprotobufexample2.proto.CustomerProtos;
-import com.hendisantika.grpc.springbootprotobufexample2.repository.CustomerRepository;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
