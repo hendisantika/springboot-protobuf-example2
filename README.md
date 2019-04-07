@@ -24,4 +24,13 @@ or
 mvn clean spring-boot:run
 ```
 
+## Screen shot
+
+### Get List All Customers
+
+![Get List All Customers](img/list.png "Get List All Customers")
+
+### Get Customer by Id
+
+![Get Customer by Id](img/get.png "Get Customer by Id")
 
